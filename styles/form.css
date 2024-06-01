@@ -9,7 +9,7 @@ form {
 }
 form i, form button {
 
-
+    font-size: 22px;
 }
 form div {
 
@@ -41,7 +41,7 @@ form div input {
 
 form div input ::placeholder {
 
-    color: rgba(#255, #255, #255 , 0.7);
+    color: rgba(255, 255, 255 , 0.7);
 }
 
 form button {
